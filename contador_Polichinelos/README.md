@@ -1,4 +1,4 @@
-# Projeto contador de polichinelo com uso de vision computacional #
+# Projeto contador de polichinelo com uso de computer vision #
 [![NPM](https://img.shields.io/static/v1?label=author&message=Eliabe%20Rocha&color=red)](https://eliaberocha.netlify.app/)
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Eliabe-Rocha/Multilevel_Regression_ENEM/blob/main/LICENSE)
 
